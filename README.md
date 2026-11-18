@@ -43,7 +43,7 @@ Responder, em uma única tela, perguntas básicas de quem gerencia vendas:
 
 <!-- PRINT: imagem do dashboard completo -->
 
-[! Dashboard](images/dashboard.png)
+[!Dashboard](images/dashboard.png)
  
 ## 🗂️ Modelo de dados
  
