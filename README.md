@@ -1,6 +1,8 @@
 # 📊 Dashboard Comercial | Power BI
  
 Dashboard interativo em **Power BI** para acompanhamento de desempenho comercial: faturamento, volume de vendas, ticket médio, base de clientes ativos e a distribuição das vendas por período, marca, gênero do cliente e região.
+
+<!-- PRINT: imagem do dashboard completo -->
  
 ![Visão geral do dashboard](images/dashboard.png)
  
@@ -40,10 +42,6 @@ Responder, em uma única tela, perguntas básicas de quem gerencia vendas:
 | **Mapa** | Faturamento por continente, de acordo com a localização das lojas |
  
 ---
-
-<!-- PRINT: imagem do dashboard completo -->
-
-[!Dashboard](images/dashboard.png)
  
 ## 🗂️ Modelo de dados
  
